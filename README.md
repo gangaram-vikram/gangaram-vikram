@@ -1,19 +1,41 @@
-- 👋 I'm a passionate learner and enthusiastic about Python programming. Currently diving deep into Python to sharpen my skills and explore its vast ecosystem.
+# Hi there, I'm Gangaram Vikram! 👋
+
+I'm a passionate learner and enthusiastic about Python programming. Currently diving deep into Python to sharpen my skills and explore its vast ecosystem.
 
 ## About Me
-- 🌱 I’m currently learning Python programming language.
+
+- 🌱 I’m currently learning Python programming language and exploring React JS.
 - 👯 I’m looking to collaborate on open-source Python projects.
-- 💬 Ask me about anything related to Python or programming in general. I'm here to help!
-- 📫 How to reach me: [Email](mailto:your-gangaramvikramvicky@gmail.com)
+- 💬 Ask me about anything related to Python, React JS, or programming in general. I'm here to help!
+- 📫 How to reach me: [Email](mailto:gangaramvikramvicky@gmail.com)
+
+## Technologies & Tools
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
+### Frontend Development
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+### Tools & Frameworks
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-<!---
-gangaram-vikram/gangaram-vikram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Projects
+
+- [Project 1](link-to-project) - Brief description of the project.
+- [Project 2](link-to-project) - Brief description of the project.
+
+## GitHub Stats
+
+![Gangaram Vikram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gangaram-vikram&show_icons=true&theme=dark)
+
+## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-profile)
+
