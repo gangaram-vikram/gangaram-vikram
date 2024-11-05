@@ -1,11 +1,11 @@
 # Hi there, I'm Gangaram Vikram! 👋
 
-I'm a passionate learner and enthusiastic about Python programming. Currently diving deep into Data Analysis with Python.
+I'm a passionate learner and enthusiastic about Python programming. Currently diving deep into Data Analytics with Python.
 
 ## About Me
 
 - 🌱 I’m currently learning Python programming language and exploring React JS.
-- 👯 I’m looking to collaborate on open-source Python projects.
+- 👯 I’m looking to collaborate on open-source Data Analytics with Python.
 - 💬 Ask me about approch related to Python,  or programming in general. I'm here to help!
 - 📫 How to reach me: [Email](mailto:gangaramvikramvicky@gmail.com)
 
