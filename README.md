@@ -4,7 +4,7 @@ I'm a passionate learner and enthusiastic about Python programming. Currently di
 
 ## About Me
 
-- 🌱 I’m currently learning Python programming language and exploring React JS.
+- 🌱 I’m currently learning Power BI,Python,SQL,Excel.
 - 👯 I’m looking to collaborate on open-source Data Analytics with Python.
 - 💬 Ask me about approch related to Python,  or programming in general. I'm here to help!
 - 📫 How to reach me: [Email](mailto:gangaramvikramvicky@gmail.com)
