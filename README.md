@@ -5,12 +5,11 @@ I'm a passionate learner and enthusiastic about Python programming. Currently di
 ## About Me
 
 - 🌱 I’m currently learning Power BI,Python,SQL,Excel.
-- 👯 I’m looking to collaborate on open-source Data Analytics with Python.
-- 💬 Ask me about approch related to Python,  or programming in general. I'm here to help!
+- 👯 I’m looking to collaborate on Data Analytics with Python.
 - 📫 How to reach me: [Email](mailto:gangaramvikramvicky@gmail.com)
 
 ## Technologies & Tools
-
+Power BI
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -22,6 +21,7 @@ I'm a passionate learner and enthusiastic about Python programming. Currently di
 
 
 ### Tools & Frameworks
+![Power Bi](https://img.shields.io/badge/-Power BI-61DAFB?style=flat&logo=react&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
